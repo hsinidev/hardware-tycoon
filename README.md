@@ -1,18 +1,22 @@
 <div align="center">
-# 🚀 Hardware Tycoon
-### *High-Performance Interactive Web Experience & Canvas Engine*
 
-<p align="center">
-  [![Architect](https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white)](https://hsini.dev)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://hsini.dev)
-  [![Language](https://img.shields.io/badge/Language-JavaScript-f59e0b?style=for-the-badge)](https://github.com/hsinidev)
-  [![Framework](https://img.shields.io/badge/Framework-WebGL%20/%20HTML5%20Canvas-6366f1?style=for-the-badge)](https://github.com/hsinidev)
-  [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
-</p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=180&section=header&text=Hardware%20Tycoon&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=38" width="100%" style="max-width: 100%; border-radius: 12px; margin-bottom: 20px;" alt="Hardware Tycoon Header Banner" />
+
+  <h1>🚀 Hardware Tycoon</h1>
+  <p><em>High-Performance Interactive Web Experience & Canvas Engine</em></p>
+
+  <p align="center">
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Architect-Hsini%20Mohamed-0055ff?style=for-the-badge&logo=github&logoColor=white" alt="Architect: Hsini Mohamed" /></a>
+    <a href="https://hsini.dev"><img src="https://img.shields.io/badge/Portfolio-hsini.dev-00c853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio: hsini.dev" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Language-JavaScript-f59e0b?style=for-the-badge" alt="Language: JavaScript" /></a>
+    <a href="https://github.com/hsinidev"><img src="https://img.shields.io/badge/Framework-WebGL%20/%20HTML5%20Canvas-6366f1?style=for-the-badge" alt="Framework: WebGL / HTML5 Canvas" /></a>
+    <a href="https://github.com/hsinidev/hardware-tycoon"><img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License: MIT" /></a>
+  </p>
 
 </div>
 
 ---
+
 ## 🌟 Executive Overview
 
 **Hardware Tycoon** delivers a fast, responsive, and cross-platform browser experience built with **JavaScript** and hardware-accelerated canvas rendering.
@@ -25,6 +29,7 @@
 - **Local Storage State**: Automatic session persistence and state restoration.
 
 ---
+
 ## 🏗️ Architecture & Technology Stack
 
 - **Primary Language**: `JavaScript`
@@ -32,133 +37,6 @@
 - **Design Pattern**: Modular Clean Architecture / Domain-Driven Design
 - **License**: MIT Open Source Attribution
 
-## 📖 Deep-Dive Technical Documentation
-
-# Hardware Tycoon - Play Online for Free
-
-## Overview
-Play Hardware Tycoon online for free. Unblocked and available on all devices. Experience the best Hardware Tycoon gameplay now!
-
-### Game Details & Guide
-The Ultimate Guide to Hardware Tycoon
-
-
-Hardware Tycoon is a browser-based simulation game where you take on the role of a hardware entrepreneur, aiming to become the ultimate tycoon by developing, manufacturing, and selling various electronic devices.
-
-
-
-Game Overview
-
-
-Hardware Tycoon was created as a fun and educational online game. Players have to manage their business, invest in new technologies, and make strategic decisions to grow their company's revenue.
-
-
-
-How to Play
-
-
-To play the game, you need to follow these steps:
-
-
-
-    
-
-Click on "Welcome" button to start the game.
-
-
-    
-
-Choose your business type (e.g., PC Hardware or Electronics).
-
-
-    
-
-Start building your business by purchasing raw materials and investing in new technologies.
-
-
-    
-
-As you progress, develop new products and expand your product line.
-
-
-    
-
-Keep an eye on market trends and make strategic decisions to stay ahead of the competition.
-
-
-    
-
-Click "Start" button to begin your business journey.
-
-
-
-
-
-
-Tips and Tricks for Success
-
-
-Here are some tips that can help you succeed in Hardware Tycoon:
-
-
-
-    
-
-Focus on developing a diverse product line to attract a wide range of customers.
-
-
-    
-
-Keep an eye on market trends and adjust your business strategy accordingly.
-
-
-    
-
-Invest in new technologies to stay ahead of the competition.
-
-
-    
-
-Manage your cash flow carefully, as low cash reserves can lead to bankruptcy.
-
-
-    
-
-Build relationships with suppliers and customers to improve communication and reduce costs.
-
-
-
-
-
-
-Why You Should Play It
-
-
-Hardware Tycoon is an engaging and educational game that can help you learn about business management, financial planning, and strategic decision-making in a fun and interactive way.
-
-
-The game also offers a unique blend of simulation and strategy, making it an entertaining experience for players of all ages.
-
-
-Additionally, the game's simple controls and intuitive interface make it accessible to players who are new to browser games or online simulations.
-
-## Technical Specifications
-- **Technology**: Construct, HTML5
-- **Compatible Browsers**: Chrome, Firefox, Safari, Edge
-- **Architecture**: Client-side execution (HTML5/JavaScript)
-
-## About the Project
-This game is part of a curated collection of high-performance web games maintained by **HSINI MOHAMED**. The project focuses on providing unblocked, fast-loading, and responsive gaming experiences to users worldwide.
-
-**HSINI MOHAMED**
-- **Email**: [hsini.web@gmail.com](mailto:hsini.web@gmail.com)
-- **Website**: [https://unlockedgames.io](https://unlockedgames.io)
-- **Portfolio**: [Explore more games](https://unlockedgames.io)
-
----
-© 2024 **HSINI MOHAMED**. All games are hosted and maintained for educational and entertainment purposes.
-
----
 ## 🚀 Quick Start & Installation
 
 ### 1. Clone the Repository
